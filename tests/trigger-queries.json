@@ -1,0 +1,12 @@
+[
+  {"query": "帮我把刚才这套发布流程做成一个 skill", "should_trigger": true},
+  {"query": "把项目记忆整理成技能，以后直接复用", "should_trigger": true},
+  {"query": "这个 SKILL.md 怎么写才能被触发", "should_trigger": true},
+  {"query": "改一下这个技能，正文太长了，帮我精简", "should_trigger": true},
+  {"query": "skill 安装到 Cherry Studio 的哪个目录", "should_trigger": true},
+  {"query": "游戏里这个技能怎么加点", "should_trigger": false},
+  {"query": "帮我安装 Cherry Studio 并登录", "should_trigger": false},
+  {"query": "把这段会议记录整理成纪要", "should_trigger": false},
+  {"query": "读取这个 PDF 并提取表格", "should_trigger": false},
+  {"query": "帮我把这段中文翻译成英文", "should_trigger": false}
+]
